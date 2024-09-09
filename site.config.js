@@ -6,7 +6,7 @@ const CONFIG = {
     role: "  ",
     bio: " An AI enthusiast and beginner coder diving into neural networks. I love simplifying complex concepts and sharing my learning journey through my blog.",
     email: "miobaoxi@gmail.com",
-    linkedin: "linkedin.com/in/mio-bao-33960a1b7",
+    linkedin: "www.linkedin.com/in/mio-bao",
     github: "MioBaoBao",
     instagram: "",
   },
