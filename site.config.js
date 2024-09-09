@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "Mio Bao",
-    image: "https://tophinhanh.net/wp-content/uploads/2024/05/avatar-nu-ngau-4.jpg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/2091e695636919.5eb96c04456ac.jpg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "  ",
     bio: " An AI enthusiast and beginner coder diving into neural networks. I love simplifying complex concepts and sharing my learning journey through my blog.",
     email: "miobaoxi@gmail.com",
