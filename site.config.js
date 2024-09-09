@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "Mio Bao",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "https://notion-avatar.vercel.app/api/img/eyJmYWNlIjoxLCJub3NlIjo3LCJtb3V0aCI6MTIsImV5ZXMiOjksImV5ZWJyb3dzIjoxMiwiZ2xhc3NlcyI6MCwiaGFpciI6NTQsImFjY2Vzc29yaWVzIjowLCJkZXRhaWxzIjowLCJiZWFyZCI6MCwiZmxpcCI6MCwiY29sb3IiOiIjY2NjY2NjIiwic2hhcGUiOiJzcXVhcmUifQ==", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "  ",
     bio: " An AI enthusiast and beginner coder diving into neural networks. I love simplifying complex concepts and sharing my learning journey through my blog.",
     email: "miobaoxi@gmail.com",
